@@ -16,7 +16,7 @@ const Navbar = () => {
 
      </div>
      <button className='desktopMenuBtn'>
-        <span className='span1'>Contact Me</span>
+        <span className=''>Contact Me</span>
      </button>
 
 
